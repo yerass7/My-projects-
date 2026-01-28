@@ -5,18 +5,18 @@ Application Design Patterns
 Module 04 – Design Principles
 
 ## Description
-This project demonstrates the use of inheritance, polymorphism,
-and composition to manage different types of vehicles.
+Данный проект демонстрирует использование наследования, полиморфизма
+и композиции для управления различными типами транспортных средств.
 
 ## Technologies
-- Python 3
-- OOP principles
+Python 3
+Принципы ООП
 
 ## Features
-- Vehicle base class
-- Car and Motorcycle subclasses
-- Garage and Fleet using composition
-- Add, remove and search vehicles
+Базовый класс Vehicle
+Производные классы Car и Motorcycle
+Использование композиции в классах Garage и Fleet
+Добавление, удаление и поиск транспортных средств
 
 ## How to run
 ```bash
